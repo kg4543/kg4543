@@ -1,10 +1,9 @@
 
-# Pengu Info
+## Pengu Info
 
-## Profile
 - 이름 : 김구겸
-- 활동 : IoT 스터디(21.01~),  
-　　 프로젝트 / ERP, MES, ActionGame...
+- 활동 : IoT 스터디(21.01~)  
+- 프로젝트 : ERP, MES, ActionGame...
 - Email : jyc351919@naver.com
 
 ## GitHub Stat and Languages
