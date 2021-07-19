@@ -1,5 +1,5 @@
 
-# Pengu-Resume 👋
+# Pengu Info
 
 ## Profile
 - 이름 : 김구겸
