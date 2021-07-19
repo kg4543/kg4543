@@ -63,7 +63,7 @@
 ### IoT Control </br>
 <kbd>![IoT](/Capture/IoT_Control.gif "IoT")</kbd> </br>
 ### MovieFinder (OpenAPI) </br>
-<kbd>![Movie](/Capture/MovieFinder.gif "Movie")</kbd> </br>
+<kbd>![Movie](/Capture/Movie.gif "Movie")</kbd> </br>
 ### Action Game </br>
 <kbd>![Action](/Capture/Action.gif "Action")</kbd> </br>
 
