@@ -1,9 +1,11 @@
 
 ## Pengu Info
 
-- 이름 : 김구겸
-- 활동 : IoT 스터디(21.01~)  
-- 프로젝트 : ERP, MES, ActionGame...
+- Name : 김구겸
+- Career : Stuy Industrial Engineering in Gyeongsang Univercity
+           Work as Production Manager (2019.04 ~ 2021.02)
+           IoT Study(2021.01 ~ 2021.08) 
+- Project : ERP, MES, ActionGame...
 - Email : jyc351919@naver.com
 
 ## GitHub Stat and Languages
