@@ -2,6 +2,8 @@
 ## Pengu Info
 
 - Name : 김구겸
+- Email : jyc351919@naver.com
+
 - Career 
   - Stuy Industrial Engineering in Gyeongsang Univercity 
   - Work as Production Manager (2019.04 ~ 2021.02)
@@ -12,7 +14,7 @@
   - IoT Control System
   - Action Game
 
-- Email : jyc351919@naver.com
+
 
 ## GitHub Stat and Languages
 <p align='left'>
