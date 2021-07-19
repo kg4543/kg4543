@@ -63,9 +63,9 @@
 - IoT Control </br>
 <kbd>![IoT](/Capture/IoT_Control.gif "IoT")</kbd> </br>
 - MovieFinder (OpenAPI) </br>
-<kbd>![Movie](/Capture/IoT_Control.gif "Movie")</kbd> </br>
+<kbd>![Movie](/Capture/MovieFinder.gif "Movie")</kbd> </br>
 - Unity Game </br>
-<kbd>![Ball](/Capture/BallGame.gif "Ball")</kbd> </br>
+<kbd>![Ball](/Capture/BallGame.gif "Ball")</kbd>
 <kbd>![Action](/Capture/Action.gif "Action")</kbd> </br>
 
 참고 출처 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA
