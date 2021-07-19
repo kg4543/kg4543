@@ -2,9 +2,10 @@
 ## Pengu Info
 
 - Name : 김구겸
-- Career : Stuy Industrial Engineering in Gyeongsang Univercity </br>
-           Work as Production Manager (2019.04 ~ 2021.02) </br>
-           IoT Study(2021.01 ~ 2021.08)
+- Career 
+  - Stuy Industrial Engineering in Gyeongsang Univercity 
+  - Work as Production Manager (2019.04 ~ 2021.02)
+  - IoT Study(2021.01 ~ 2021.08)
 - Project : ERP, MES, ActionGame...
 - Email : jyc351919@naver.com
 
