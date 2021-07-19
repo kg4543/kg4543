@@ -5,7 +5,7 @@
 - Email : jyc351919@naver.com
 
 - Career 
-  - Stuy Industrial Engineering in Gyeongsang Univercity 
+  - Study Industrial Engineering in Gyeongsang Univercity (2013.02 ~ 2019.02)
   - Work as Production Manager (2019.04 ~ 2021.02)
   - IoT Study(2021.01 ~ 2021.08)
 - Project
