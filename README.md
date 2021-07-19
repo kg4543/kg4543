@@ -7,7 +7,7 @@
 - Career 
   - Study Industrial Engineering in Gyeongsang Univercity (2013.02 ~ 2019.02)
   - Work as Production Manager (2019.04 ~ 2021.02)
-  - IoT Study(2021.01 ~ 2021.08)
+  - IoT Study Program in (2021.01 ~ 2021.08)
 - Project
   - ERP System
   - MES System
