@@ -7,7 +7,7 @@
 - Email : jyc351919@naver.com
 
 ## GitHub Stat and Languages
-<p align='center'>
+<p align='left'>
   <a href="https://github.com/kg4543">
     <img src="https://github-readme-stats.vercel.app/api?username=kg4543&theme=onedark&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg4543&theme=onedark&layout=compact"/>
