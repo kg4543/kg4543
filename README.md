@@ -56,15 +56,15 @@
 <br/>
 
 ## Project
-- ERP </br>
+### ERP </br>
 <kbd>![ERP](/Capture/ERP.gif "ERP")</kbd> </br>
-- MES </br>
+### MES </br>
 <kbd>![MES](/Capture/MES.gif "MES")</kbd> </br>
-- IoT Control </br>
+### IoT Control </br>
 <kbd>![IoT](/Capture/IoT_Control.gif "IoT")</kbd> </br>
-- MovieFinder (OpenAPI) </br>
+### MovieFinder (OpenAPI) </br>
 <kbd>![Movie](/Capture/MovieFinder.gif "Movie")</kbd> </br>
-- Action Game </br>
+### Action Game </br>
 <kbd>![Action](/Capture/Action.gif "Action")</kbd> </br>
 
 참고 출처 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA
