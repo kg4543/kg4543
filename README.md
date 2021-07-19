@@ -1,7 +1,7 @@
 
 ## Pengu Info
 
-- Name : 김구겸
+- Name : Kim Gugyeom
 - Email : jyc351919@naver.com
 
 - Career 
