@@ -1,14 +1,14 @@
 
-## Pengu Info
+## Pengu Info :speech_balloon:
 
-- Name:name_badge: : Kim Gugyeom
-- Email:mailbox_with_mail: : jyc351919@naver.com
+- Name : Kim Gugyeom
+- Email : jyc351919@naver.com
 
-- Career:scroll:
+- Career
   - Study Industrial Engineering in Gyeongsang Univercity (2013.02 ~ 2019.02)
   - Work as Production Manager (2019.04 ~ 2021.02)
   - IoT Study Program in (2021.01 ~ 2021.08)
-- Project:movie_camera:
+- Project
   - ERP System
   - MES System
   - IoT Control System
