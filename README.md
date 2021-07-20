@@ -1,5 +1,5 @@
 
-## Pengu Info :speech_balloon:
+# Pengu Info :speech_balloon:
 
 - Name : Kim Gugyeom
 - Email : jyc351919@naver.com
