@@ -1,7 +1,7 @@
 
 ## Pengu Info
 
-- Name : Kim Gugyeom
+- :name_badge:Name : Kim Gugyeom
 - Email : jyc351919@naver.com
 
 - Career 
