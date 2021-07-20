@@ -2,13 +2,13 @@
 ## Pengu Info
 
 - :name_badge:Name : Kim Gugyeom
-- Email : jyc351919@naver.com
+- :mailbox_with_mail:Email : jyc351919@naver.com
 
-- Career 
+- :scroll:Career 
   - Study Industrial Engineering in Gyeongsang Univercity (2013.02 ~ 2019.02)
   - Work as Production Manager (2019.04 ~ 2021.02)
   - IoT Study Program in (2021.01 ~ 2021.08)
-- Project
+- :fireworks:Project
   - ERP System
   - MES System
   - IoT Control System
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## Using Tools
+## Using Tools :speech_balloon:
 <p align='left'>
   <a href="https://github.com/kg4543">
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
@@ -40,7 +40,7 @@
 </p>
 <br/>
 
-## Using Languages
+## Using Languages :speech_balloon:
 <p align='left'>
   <a href="https://github.com/kg4543">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
