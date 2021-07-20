@@ -55,16 +55,16 @@
 
 <br/>
 
-## Project
+## Project (Click the Picture when you want to check detail)
 ### ERP </br>
-<kbd>![ERP](/Capture/ERP.gif "ERP")</kbd> </br>
+<kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
 ### MES </br>
-<kbd>![MES](/Capture/MES.gif "MES")</kbd> </br>
+<kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
 ### IoT Control </br>
 <kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/blob/main/IoT%20contloer/README.md)</kbd> </br>
 ### MovieFinder (OpenAPI) </br>
-<kbd>![Movie](/Capture/Movie.gif "Movie")</kbd> </br>
+<kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
 ### Action Game </br>
-<kbd>![Action](/Capture/Action.gif "Action")</kbd> </br>
+<kbd>[![Action](/Capture/Action.gif "Action")](https://github.com/kg4543/StudyUnity/tree/main/Action_Game)</kbd> </br>
 
 참고 출처 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA
