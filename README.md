@@ -60,7 +60,7 @@
 ### MES </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
 ### IoT Control </br>
-<kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/blob/main/IoT%20contloer/README.md)</kbd> </br>
+<kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/tree/main/IoT%20contloer)</kbd> </br>
 ### MovieFinder (OpenAPI) </br>
 <kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
 ### Action Game </br>
