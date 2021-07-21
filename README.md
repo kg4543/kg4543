@@ -66,6 +66,6 @@
 ### Action Game </br>
 <kbd>[![Action](/Capture/Action.gif "Action")](https://github.com/kg4543/StudyUnity/tree/main/Action_Game)</kbd> </br>
 참고 자료 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA </br>
-### Detection Camera (OpenCV)
+### Detection Camera
 <kbd>[![CAM](/Capture/Cam_Move.gif "CAM")](https://github.com/kg4543/StudyRaspberry/blob/main/OpenCV/OpenCV_mov03.py)</kbd> </br>
 
