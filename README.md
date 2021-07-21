@@ -13,8 +13,7 @@
   - MES System
   - IoT Control System
   - Action Game
-
-
+  - Detection Camera
 
 ## GitHub Stat and Languages
 <p align='left'>
@@ -66,5 +65,7 @@
 <kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
 ### Action Game </br>
 <kbd>[![Action](/Capture/Action.gif "Action")](https://github.com/kg4543/StudyUnity/tree/main/Action_Game)</kbd> </br>
+참고 자료 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA </br>
+### Detection Camera (OpenCV)
+<kbd>[![CAM](/Capture/Cam_Move.gif "CAM")](https://github.com/kg4543/StudyRaspberry/blob/main/OpenCV/OpenCV_mov03.py)</kbd> </br>
 
-참고 출처 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA
