@@ -55,7 +55,7 @@
 <br/>
 
 ## Project (Click the Picture when you want to check detail)
-### ERP </br>
+### ERP (Developing) </br>
 <kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
 ### MES </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
