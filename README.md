@@ -55,9 +55,10 @@
 <br/>
 
 ## Project (Click the Picture when you want to check detail)
-### ERP (Developing) </br>
-<kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
-### MES </br>
+### MES(발주 / 생산) </br>
+<kbd>[![MES](/Capture/ERP.gif "MES")](https://github.com/kg4543/MiniProject_ERP)</kbd>
+<kbd>[![OEE](https://github.com/kg4543/TeamProject_SmartFac/blob/main/Capture/OEEMonitoring.gif "OEE")](https://github.com/kg4543/TeamProject_SmartFac/blob/main/Raspberry/Total.py)</kbd> </br>
+### MES(창고) </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
 ### IoT Control </br>
 <kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/tree/main/IoT%20contloer)</kbd> </br>
