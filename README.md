@@ -54,19 +54,3 @@
 
 <br/>
 
-## Project (Click the Picture when you want to check detail)
-### MES(발주 / 생산) </br>
-<kbd>[![MES](/Capture/ERP.gif "MES")](https://github.com/kg4543/MiniProject_ERP)</kbd>
-<kbd>[![OEE](https://github.com/kg4543/TeamProject_SmartFac/blob/main/Capture/OEEMonitoring.gif "OEE")](https://github.com/kg4543/TeamProject_SmartFac/blob/main/Raspberry/Total.py)</kbd> </br>
-### MES(창고) </br>
-<kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
-### IoT Control </br>
-<kbd>[![IoT](/Capture/IoT_Control.gif "IoT")](https://github.com/kg4543/StudyRaspberry/tree/main/IoT%20contloer)</kbd> </br>
-### MovieFinder (OpenAPI) </br>
-<kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
-### Action Game </br>
-<kbd>[![Action](/Capture/Action.gif "Action")](https://github.com/kg4543/StudyUnity/tree/main/Action_Game)</kbd> </br>
-참고 자료 : https://www.youtube.com/channel/UCw_N-Q_eYJo-IJFbNkhiYDA </br>
-### Detection Camera
-<kbd>[![CAM](/Capture/Cam_Move.gif "CAM")](https://github.com/kg4543/StudyRaspberry/blob/main/OpenCV/OpenCV_mov03.py)</kbd> </br>
-
