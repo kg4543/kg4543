@@ -8,12 +8,12 @@
   - Studied Industrial Engineering in Gyeongsang Univercity (2013.02 ~ 2019.02)
   - Worked as Production Manager (2019.04 ~ 2021.02)
   - IoT Study Program in Pukyong Univercity (2021.01 ~ 2021.08)
+  - Worked as Unity Developer in IEG (2021.09 ~ Now)
 - Project
-  - ERP System
   - MES System
   - IoT Control System
-  - Action Game
-  - Detection Camera
+  - Digital Twin [PC/Mobile/Web]
+  - Machine Eduction VR Contents [Oculus]
 
 ## GitHub Stat and Languages
 <p align='left'>
